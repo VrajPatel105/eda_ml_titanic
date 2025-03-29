@@ -5,7 +5,7 @@
 This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset and builds two predictive models (Logistic Regression and Decision Tree) to predict passenger survival based on various features.
 
 ### Key Steps:
-1. **Data Preprocessing**: Handle missing values, encode categorical variables, and prepare the dataset for model training.
+1. **Data Preprocessing**: Handle missing values, encode categorical variables, and prepare the dataset for model training. 
 2. **Exploratory Data Analysis (EDA)**: Analyze relationships between features and the target variable (survival).
 3. **Model Building**: Train two models:
    - **Logistic Regression**: A simple yet effective linear model for binary classification.
