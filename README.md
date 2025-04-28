@@ -6,7 +6,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset
 
 ### Key Steps:
 1. **Data Preprocessing**: Handle missing values, encode categorical variables, and prepare the dataset for model training. 
-2. **Exploratory Data Analysis (EDA)**: Analyze relationships between features and the target variable (survival).
+2. **Exploratory Data Analysis (EDA)**: Analyze relationships between features and the target variable (survival). 
 3. **Model Building**: Train two models: 
    - **Logistic Regression**: A simple yet effective linear model for binary classification.
    - **Decision Tree**: A non-linear model that provides more interpretability.
